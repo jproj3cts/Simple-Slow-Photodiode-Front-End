@@ -18,7 +18,7 @@ The general scheme of this device is shown below. As can be seen, it is formed o
   
  ## Assembly
 
-The PCB itself can be fabricated using your favorite online service by simply uploading the "photodiode for fabrication.zip" file to their online store. I go with JLCPCB, but others are available. Assebly should also be possible using these services if you provide a BOM too, though some special considerations may need to be made for the OPT101 chip since it is an optical component. Elsewise, you can do what I did and hand solder the components.
+The PCB itself can be fabricated using your favorite online service by simply uploading the "photodiode for fabrication.zip" file to their online store. I go with JLCPCB, but others are available. Assembly should also be possible using these services if you provide a BOM too, though some special considerations may need to be made for the OPT101 chip since it is an optical component. Elsewise, you can do what I did and hand solder the components.
 
 <img src="Media/pdCircuit.PNG" width=30% height=30% alt = "pdCircuit.png" title="pdCircuit.png">
 
